@@ -1,2 +1,2 @@
-# Duino-Coin-Modified-AVR
-AVR Miner Donation Bypass
+# Duino Coin AVR No Donation
+Duino Coin AVR miner whit removed donation code
